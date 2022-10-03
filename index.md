@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./Job-Listings.html).
+[Link To Job Listings](./Job-Listings.html).
 
 There should be whitespace between paragraphs.
 
@@ -22,21 +22,14 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
+
+
+
+
+
+ (Entering spaces, creates a gap)
 #### Header 4
 
 *   This is an unordered list following a header.
