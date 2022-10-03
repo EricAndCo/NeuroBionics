@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link To Job Listings](./Job-Listings.html).
+[__Link To Job Listings__](./Job-Listings.html).
 
 There should be whitespace between paragraphs.
 
