@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [__Link To Job Listings__](./Job-Listings.html)
 
 # NeuroBionics Updates
