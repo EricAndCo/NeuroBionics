@@ -40,7 +40,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 
-### Definition lists can be used with HTML syntax.
+#### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
