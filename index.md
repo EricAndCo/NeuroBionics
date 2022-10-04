@@ -8,11 +8,11 @@ layout: default
 
   We Are Searching for New Employees! Click The Link Up Top for Job Listings and Opportunities!
 
-### Innovating New Ways To Use Prosthetics
+#### Innovating New Ways To Use Prosthetics
 
 > When something is important enough, you do it even if the odds are not in your favor.
 
-#### Goals For the company
+### Goals For the company
 
 *   Use Technology to Re-Imagine Prosthetics.
 *   Not Just to Give Back Limbs; Make It Possible to Live Again.
