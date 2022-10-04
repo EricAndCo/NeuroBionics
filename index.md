@@ -24,7 +24,7 @@ layout: default
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+## Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -38,15 +38,15 @@ layout: default
 
 
 
-#### Definition lists can be used with HTML syntax.
+#### Company Contacts
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>NeuroBionics</dd>
+<dt>Established</dt>
+<dd>2022</dd>
+<dt>Phone</dt>
+<dd>717-802-6385</dd>
+<dt>Location</dt>
+<dd>1600 W Carson St, Pittsburgh, PA 15219</dd>
 </dl>
