@@ -6,35 +6,19 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [__Link To Job Listings__](./Job-Listings.html).
 
-There should be whitespace between paragraphs.
+# NeuroBionics Updates
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+  We Are Searching for New Employees! Click The Link Up Top for Job Listings and Opportunities!
 
-# Header 1
+## Innovating New Ways To Use Prosthetics
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Goals For the company
 
-
-
-
-
-
-
-
- (Entering spaces, creates a gap)
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Use Technology to Re-Imagine Prosthetics.
+*   Not Just to Give Back Limbs; Make It Possible to Live Again.
+*   Create a Personal and Friendly Relationship With All Patients.
 
 ##### Header 5
 
