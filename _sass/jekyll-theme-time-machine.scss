@@ -26,8 +26,11 @@ code, pre {
 }
 
 img.Company-Logo {
-  align: Center;
-  size: 50%,50%;
+  Display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  Height: 50%;
 }
 
 h1.title {
