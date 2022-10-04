@@ -47,6 +47,8 @@ layout: default
 <dd>2022</dd>
 <dt>Phone</dt>
 <dd>717-802-6385</dd>
+<dt>Email</dt>
+<dd>EricJJackson44@gmail.com</dd>
 <dt>Location</dt>
 <dd>1600 W Carson St, Pittsburgh, PA 15219</dd>
 </dl>
