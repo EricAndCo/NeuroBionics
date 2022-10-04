@@ -8,7 +8,7 @@ layout: default
 
 ![HW1](./HW1.jpg)
 
-#### Looking for Trained Medical Workers
+## Looking for Trained Medical Workers
 * Doctorate required for surgical positions
 * Background checks required
 * Nurses and Surgeons will go through specific training according to our standards
@@ -23,7 +23,7 @@ layout: default
 
 ![HW2](./HW2.jpg)
 
-#### Looking for Trained Machinists
+## Looking for Trained Machinists
 
 * Bachelors degree required for each position
 * All tools and resources are provided by the company
@@ -38,7 +38,7 @@ layout: default
 
 ![HW3](./HW3.jpg)
 
-#### Looking for Financial Managers
+## Looking for Financial Managers
 
 * Must be able to complete basic financial mathematics
 * Criminal background checks required
