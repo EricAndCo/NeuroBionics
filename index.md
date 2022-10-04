@@ -18,27 +18,25 @@ layout: default
 *   Not Just to Give Back Limbs; Make It Possible to Live Again.
 *   Create a Personal and Friendly Relationship With All Patients.
 
-##### Header 5
+### About The Company
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+NeuroBionics is a company designed to Innovate the use of prosthetics and give patients their limbs back, connecting with them in more ways than just a peice of plastic. NeuroBionics is developing ways to interface Prosthetics with the brain to be able to move and feel like you just like you always would.
 
-## Header 6
+## Company Development Progress
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Development Progress | Task              | %     |
+|:---------------------|-------------------|:------|
+| ok                   | Nano Sensor Design| 63%   |
+| held up              | Surgical Robots   | 42%   |
+| ok                   | Medical Training  | 89%   |
+| ok                   | Prosthetic Molds  | 75%   |
 
 * * *
 
 
 
 
-#### Company Contacts
+### Company Contacts
 
 <dl>
 <dt>Name</dt>
