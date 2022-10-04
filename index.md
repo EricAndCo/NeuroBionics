@@ -10,11 +10,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
   We Are Searching for New Employees! Click The Link Up Top for Job Listings and Opportunities!
 
-## Innovating New Ways To Use Prosthetics
+### Innovating New Ways To Use Prosthetics
 
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Goals For the company
+#### Goals For the company
 
 *   Use Technology to Re-Imagine Prosthetics.
 *   Not Just to Give Back Limbs; Make It Possible to Live Again.
@@ -35,47 +35,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
-
 * * *
 
-### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
@@ -90,11 +52,3 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
