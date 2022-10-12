@@ -22,14 +22,14 @@ layout: default
 
 NeuroBionics is a company designed to Innovate the use of prosthetics and give patients their limbs back, connecting with them in more ways than just a peice of plastic. NeuroBionics is developing ways to interface Prosthetics with the brain to be able to move and feel like you just like you always would.
 
-## Company Development Progress
+## Business Hours
 
-| Development Progress | Task              | %     |
-|:---------------------|-------------------|:------|
-| ok                   | Nano Sensor Design| 63%   |
-| held up              | Surgical Robots   | 42%   |
-| ok                   | Medical Training  | 89%   |
-| ok                   | Prosthetic Molds  | 75%   |
+| Days                 | Hours             | Open/Closed |
+|:---------------------|-------------------|:------------|
+| Monday-Thursday      | 6:30Am - 8:00Pm   | Open        |
+| Friday               | 7:30Am - 5:30Pm   | Open        |
+| Saturday             | 9:00Am - 5:30Pm   | Open        |
+| Sunday               | Closed            | Closed      |
 
 * * *
 
