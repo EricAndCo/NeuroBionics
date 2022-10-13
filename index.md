@@ -20,7 +20,7 @@ layout: default
 
 ### About The Company
 
-NeuroBionics is a company designed to Innovate the use of prosthetics and give patients their limbs back, connecting with them in more ways than just a peice of plastic. NeuroBionics is developing ways to interface Prosthetics with the brain to be able to move and feel like you just like you always would.
+NeuroBionics is a company designed to Innovate the use of prosthetics and give patients their limbs back, connecting with them in more ways than just a peice of plastic. NeuroBionics is developing ways to interface Prosthetics with the brain to be able to move and feel just like you always would.
 
 ## Business Hours
 
